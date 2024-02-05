@@ -1,2 +1,2 @@
 # homework_astron98
-Homeworks from Aston_98 
+Homeworks from Astron_98 
